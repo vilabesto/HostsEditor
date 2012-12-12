@@ -18,11 +18,6 @@ namespace HostsChanger
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         //Search for remote hosts file then pressing on button "Connect" and read data from it
         private void button1_Click(object sender, EventArgs e)
         {
@@ -62,27 +57,6 @@ namespace HostsChanger
             if (e.KeyData == (Keys.Control | Keys.S))
             {
                 hostsChanger.Writer();
-            }
-        }
-
-        //Button - About
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            Form2 frm = new Form2();
-            frm.Show();
-        }
-        
-        //Create form "About"
-        public class Form2 : Form
-        {
-            public Form2()
-            {
-                Text = "About";
-
-                Label label1 = new Label();
-                label1.AutoSize = true;
-                label1.Text = "ddd";
-                label1.Visible = true;
             }
         }
     }
