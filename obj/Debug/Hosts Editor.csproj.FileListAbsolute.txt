@@ -1,0 +1,9 @@
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\bin\Debug\Hosts Editor.exe.config
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\bin\Debug\Hosts Editor.exe
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\bin\Debug\Hosts Editor.pdb
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\obj\Debug\Hosts Editor.csprojResolveAssemblyReference.cache
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\obj\Debug\HostsChanger.Form1.resources
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\obj\Debug\Hosts_Editor.Properties.Resources.resources
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\obj\Debug\Hosts Editor.csproj.GenerateResource.Cache
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\obj\Debug\Hosts Editor.exe
+d:\users\andrey\m\visual studio 2012\Projects\Hosts Editor\Hosts Editor\obj\Debug\Hosts Editor.pdb
